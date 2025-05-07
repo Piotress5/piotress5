@@ -1,5 +1,5 @@
 ### Hey there 👋
-#### I am Piotr and it's nice to see you there!
+#### I am Piotr and it's nice to see you!
 
 
 📋 Take a look at my <a href="https://github.com/Piotress5?tab=repositories">projects</a>
